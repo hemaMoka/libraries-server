@@ -1,0 +1,131 @@
+{
+  "signup": [
+    {
+      "id": 1,
+      "name": "ibrahim mohamed",
+      "addres": "elawayed alexandria ",
+      "email": "ibrahimmohamed@gmail.com",
+      "phone": "01284954021",
+      "password": "12345"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Power Of Self Discipline",
+      "author": "Junkybooks",
+      "description": "No Excuses! The Power of Self- Discipline. Most people think success comes from good luck or enormous talent, but many successful people achieve their accomplishments in a simpler way: through self-discipline. No Excuses! shows you how you can achieve success in all three major areas of your life, including your personal goals, business and money goals, and overall happiness.",
+      "download": "https://www.junkybooks.com/administrator/thebooks/65df046d09c57-power-of-self-discipline.pdf",
+      "read": "https://www.junkybooks.com/book/reader.php?book=thebooks/65df046d09c57-power-of-self-discipline.pdf",
+      "img": "https://www.junkybooks.com/administrator/bookimages/65df046d09c2d6.87772026.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Time Management For Creative People",
+      "author": "Junkybooks",
+      "description": "So you start the day full of enthusiasm. You're excited about a new piece of creative work and itching to put your ideas into action. Firing up your computer, the familiar stream of e-mails pours into your inbox, burying the ones you didn't get round to replying to yesterday. Scanning through the list, your heart sinks - two of them look as though they require urgent action. You hit 'reply' and start typing a response to one of them... 20 minutes later you 'come round' and realise you've got sucked into the e-mail zone and have been sidetracked by interesting links sent by friends, as well as writing replies about issues that aren't a priority for you. You minimize the email window and get back to your project...",
+      "download": "https://www.junkybooks.com/administrator/thebooks/65d3d91379fe0-time-management-for-creative-people.pdf",
+      "read": "https://www.junkybooks.com/book/reader.php?book=thebooks/65d3d91379fe0-time-management-for-creative-people.pdf",
+      "img": "https://www.junkybooks.com/administrator/bookimages/65d3d91379f942.60107338.jpg"
+    },
+    {
+      "id": 3,
+      "title": "An Introduction To The Enneagram",
+      "author": "Junkybooks",
+      "description": "I was introduced to the Enneagram in 1997, since when I have found it a powerful and practical tool, in my own life and relationships, and in my work - originally as a psychotherapist and now also as a business coach and consultant. The Enneagram system is not confined to what modern psychology regards as the 'personality' - it includes the whole of human nature, mental, emotional and physical - but I will limit this brief introduction to the personality types and how they can help you in your personal and professional development.",
+      "download": "https://www.junkybooks.com/administrator/thebooks/65d3d80220640-an-introduction-to-the-enneagram.pdf",
+      "read": "https://www.junkybooks.com/book/reader.php?book=thebooks/65d3d80220640-an-introduction-to-the-enneagram.pdf",
+      "img": "https://www.junkybooks.com/administrator/bookimages/65d3d8022063d1.52561797.jpg"
+    },
+    {
+      "id": 4,
+      "title": "15 Questions About Online Advertising",
+      "author": "Junkybooks",
+      "description": "The real question of course is: Does online advertising work? Isn't it time that somebody tried to deconstruct all this bul****t? Unfortunately, it's impossible to give a simple answer to this apparently straightforward question.? For starters, this is not a single question, but at least three different ones. The right question to ask would be: for whom does online advertising work? Do banner ads, what we once called interactive advertising and now call display ads because nobody clicks on them, and much less interacts with them, work for publishers? Do they work for advertisers? Or do they just work for the middlemen based in Silicon Valley?",
+      "download": "https://www.junkybooks.com/administrator/thebooks/65d3d69140094-15-questions-about-online-advertising.pdf",
+      "read": "https://www.junkybooks.com/book/reader.php?book=thebooks/65d3d69140094-15-questions-about-online-advertising.pdf",
+      "img": "https://www.junkybooks.com/administrator/bookimages/65d3d691400620.88881227.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Small Business Digital Policy Guide",
+      "author": "Junkybooks",
+      "description": "With the rapid changes in hardware, how we make connections, how we access content and how we interact with technology, there’s never been a more exciting time for business. The advent of social media, mobile devices and the accompanying tools are benefitting us in ways unimaginable a decade ago. As smartphones and tablets have integrated fully into our home and business lives, the pace, scope and capacity of work has increased - but so has the potential for problems.",
+      "download": "https://www.junkybooks.com/administrator/thebooks/65d3d5f5ab796-small-business-digital-policy-guide.pdf",
+      "read": "https://www.junkybooks.com/book/reader.php?book=thebooks/65d3d5f5ab796-small-business-digital-policy-guide.pdf",
+      "img": "https://www.junkybooks.com/administrator/bookimages/65d3d5f5ab7687.69142993.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Staff Recruitment Survival Guide",
+      "author": "Junkybooks",
+      "description": "We live in a high litigious society and more than ever business operators must protect themselves when they hire new employees. Businesses need the right tools to help them make the important decisions about hiring staff. And they need sound strategies that will ensure the job applications are assessed and evaluated properly and effectively.",
+      "download": "https://www.junkybooks.com/administrator/thebooks/65d3d57528a6f-staff-recruitment-survival-guide.pdf",
+      "read": "https://www.junkybooks.com/book/reader.php?book=thebooks/65d3d57528a6f-staff-recruitment-survival-guide.pdf",
+      "img": "https://www.junkybooks.com/administrator/bookimages/65d3d57528a3c3.98019135.jpg"
+    },
+    {
+      "id": 7,
+      "title": "A Brief Guide To Starting A Home Based Business",
+      "author": "Junkybooks",
+      "description": "A reference for helping people who are ready to start and build their own business but don't know where to begin. The book uses the author's own experiences gained from starting at the age of eighteen; guiding reader through a jungle of ideas and reveals problems that can be avoided by careful planning. Although only brief, the book covers as many important details as can be possible in its sixty five pages.",
+      "download": "https://www.junkybooks.com/administrator/thebooks/65ba4d3ac2830-a-brief-guide-to-starting-a-home-based-business.pdf",
+      "read": "https://www.junkybooks.com/book/reader.php?book=thebooks/65ba4d3ac2830-a-brief-guide-to-starting-a-home-based-business.pdf",
+      "img": "https://www.junkybooks.com/administrator/bookimages/65ba4d3ac282f1.96215409.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Ugly Love",
+      "author": "Colleen Hoover",
+      "description": "A reference for helping people who are ready to start and build their own business but don't know where to begin. The book uses the author's own experiences gained from starting at the age of eighteen; guiding reader through a jungle of ideas and reveals problems that can be avoided by careful planning. Although only brief, the book covers as many important details as can be possible in its sixty five pages.",
+      "download": "https://www.junkybooks.com/administrator/thebooks/62fec2186328f-ugly-love.pdf",
+      "read": "https://www.junkybooks.com/book/reader.php?book=thebooks/62fec2186328f-ugly-love.pdf",
+      "img": "https://www.junkybooks.com/administrator/bookimages/62fec2186325e5.09756980.jpg"
+    },
+    {
+      "id": 9,
+      "title": "My Lady's Money",
+      "author": "Wilkie Collins",
+      "description": "The first canine detective story. Book Excerpt with his well-bred insolence. What a chaste gayety of color What do you want?asked her Ladyship, not in the least softened by the compliment. I want to pay my respects to my dear aunt, Felix answered, perfectly impenetrable to his ungracious reception, and perfectly comfortable in a spacious arm-chair.",
+      "download": "https://www.junkybooks.com/administrator/thebooks/62c60033c02e1-my-lady-s-money.pdf",
+      "read": "https://www.junkybooks.com/book/reader.php?book=thebooks/62c60033c02e1-my-lady-s-money.pdf",
+      "img": "https://www.junkybooks.com/administrator/bookimages/62fec2186325e5.09756980.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Atonement",
+      "author": "Ian Mcewan",
+      "description": "THE PLAY—for which Briony had designed the posters, programs and tickets, constructed the sales booth out of a folding screen tipped on its side, and lined the collection box in red crêpe paper —was written by her in a two-day tempest of composition, causing her to miss a breakfast and a lunch.",
+      "download": "https://www.junkybooks.com/administrator/thebooks/62fc24fcca1e5-atonement.pdf",
+      "read": "https://www.junkybooks.com/book/reader.php?book=thebooks/62fc24fcca1e5-atonement.pdf",
+      "img": "https://www.junkybooks.com/administrator/bookimages/62fc24fcca1924.38533316.jpg"
+    },
+    {
+      "id": 11,
+      "title": "2 States The Story Of My Marriage",
+      "author": "Chetan Bhagat",
+      "description": "Love marriages around the world are simple: Boy loves girl. Girl loves boy. They get married. In India, there are a few more steps: Boy loves Girl. Girl loves Boy. Girl's family has to love boy. Boy's family has to love girl. Girl's Family has to love Boy's Family. Boy's family has to love girl's family. Girl and Boy still love each other. They get married.",
+      "download": "https://www.junkybooks.com/administrator/thebooks/62fc2d9a390eb-2-states-the-story-of-my-marriage.pdf",
+      "read": "https://www.junkybooks.com/book/reader.php?book=thebooks/62fc2d9a390eb-2-states-the-story-of-my-marriage.pdf",
+      "img": "https://www.junkybooks.com/administrator/bookimages/62fc2d9a3909b7.18030917.jpg"
+    },
+    {
+      "id": 12,
+      "title": "A Brief History Of Time",
+      "author": "Stephen Hawking",
+      "description": "Stephen Hawking's classic work has become a landmark volume in scientific writing, with more than nine million copies in forty languages sold worldwide. The intervening years have seen extraordinary advances in the technology of observing both the micro- and the macrocosmic worlds.",
+      "download": "https://www.junkybooks.com/administrator/thebooks/6302d2b536869-a-brief-history-of-time.pdf",
+      "read": "https://www.junkybooks.com/book/reader.php?book=thebooks/6302d2b536869-a-brief-history-of-time.pdf",
+      "img": "https://www.junkybooks.com/administrator/bookimages/6302d2b5368653.60320621.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Twilight",
+      "author": "Stephenie Meyer",
+      "description": "According to many Twilight readers, this novel has focused on a romance that is completely not common in our lives - the love between a human girl and a vampire. They fall in love with each other and decide to face all the difficulties even there are may lay in the road of their future relationship.",
+      "download": "https://www.junkybooks.com/administrator/thebooks/62fc235d3822e-twilight.pdf",
+      "read": "https://www.junkybooks.com/book/reader.php?book=thebooks/62fc235d3822e-twilight.pdf",
+      "img": "https://www.junkybooks.com/administrator/bookimages/62fc235d381f07.02424551.jpg"
+    }
+  ]
+}
